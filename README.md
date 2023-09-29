@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-  Um formulário de login responsivo.
+  Um formulário.
 
 - [Acesse o projeto finalizado, online](https://hendersonsousa20.github.io/explorer-form/)
 
